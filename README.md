@@ -189,3 +189,4 @@ scripts/setup.ts      Interactive deploy helper
 ## License
 
 [MIT](LICENSE). Not affiliated with or endorsed by YNAB.
+
